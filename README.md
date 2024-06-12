@@ -1,7 +1,7 @@
 # QuanLy_QuanCaPhe
  
 Phần mềm quản lý quán cà phê <br>
-Sử dụng ngôn ngữ JAVA, dùng IDE NetBean<br>
+Sử dụng ngôn ngữ JAVA, dùng IDE NetBean , database lưu trữ ở SQL Server <br>
 Chức năng:<br>
   Quản lý món ăn(thêm , xoá , sửa ) <br>
   Quản lý bàn (thêm , xoá , sửa , gộp bàn , tách bàn)<br>
